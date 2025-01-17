@@ -1,0 +1,6 @@
+numpy==1.23.5
+blosc2~=2.0.0
+tables==3.8.0
+libratom==0.7.1
+numba==0.57.0
+manim
